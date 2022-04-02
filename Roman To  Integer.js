@@ -34,5 +34,5 @@ function chrToInt(c){
     }
 
 }
-
+//This a sample input
 console.log(romanToInt('MMXXII'));
