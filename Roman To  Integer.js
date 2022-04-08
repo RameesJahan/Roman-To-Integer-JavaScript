@@ -37,6 +37,6 @@ function chrToInt(c){
 //This a sample input
 console.log(romanToInt('MMXXII'));
 /**
-* Output of this code is 2022
+* Output of this code is 2022 ch
 *
 **/
